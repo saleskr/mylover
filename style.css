@@ -140,10 +140,10 @@ body {
 }
 
 .footer {
+    font-family: "Playwrite HR Lijeva", cursive;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: red;
-    color: white;
+    color: rgb(14, 10, 10);
     text-align: center;
 }
